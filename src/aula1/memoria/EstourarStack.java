@@ -1,4 +1,4 @@
-package pkg;
+package aula1.memoria;
 
 public class EstourarStack {
 

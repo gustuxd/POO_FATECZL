@@ -1,4 +1,4 @@
-package pkg;
+package aula1.memoria;
 
 import java.util.ArrayList;
 import java.util.List;
